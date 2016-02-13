@@ -1,3 +1,5 @@
 # CacheMoney
 
--Jim Drake - LEETS MAKE SOME CACHE MONEY
+This will contain information about CacheMoney.
+
+Still testing all this out. 
