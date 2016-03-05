@@ -1,24 +1,5 @@
 <<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent">
-    <TextView
-        android:text="Cache Money"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/textView1" />
-    <Button
-        android:text="Login"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/button1" />
-</LinearLayout>
-=======
-<<<<<<< HEAD
-<?xml version="1.0" encoding="utf-8"?>
 =======
 ﻿<?xml version="1.0" encoding="utf-8"?>
 >>>>>>> refs/remotes/origin/master
@@ -40,4 +21,3 @@
 </LinearLayout>
 
 >>>>>>> refs/remotes/origin/master
->>>>>>> origin/Button
